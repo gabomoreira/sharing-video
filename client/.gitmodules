@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/gabomoreira/sharing-video
+[submodule "sharing-video"]
+	path = sharing-video
+	url = https://github.com/gabomoreira/sharing-video
